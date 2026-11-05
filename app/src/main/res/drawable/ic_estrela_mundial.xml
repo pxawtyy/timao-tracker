@@ -1,0 +1,12 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <!-- Estrela Dourada do Bi-Mundial FIFA 2000 / 2012 -->
+    <path
+        android:fillColor="#FFD700"
+        android:strokeColor="#B8860B"
+        android:strokeWidth="1.5"
+        android:pathData="M24,2 L30.5,16.5 L46,18.5 L34.5,29.5 L37.5,45 L24,37.5 L10.5,45 L13.5,29.5 L2,18.5 L17.5,16.5 Z" />
+</vector>

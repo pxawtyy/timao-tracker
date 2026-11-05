@@ -1,0 +1,31 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="64dp"
+    android:height="64dp"
+    android:viewportWidth="64"
+    android:viewportHeight="64">
+    <!-- Rosto caricato do Craque Neto / Apito de Ouro -->
+    <!-- Cabelo / Cabeça -->
+    <path
+        android:fillColor="#FFD54F"
+        android:strokeColor="#000000"
+        android:strokeWidth="2"
+        android:pathData="M16,28 C16,14 48,14 48,28 L50,38 C50,48 40,56 32,56 C24,56 14,48 14,38 Z" />
+    <!-- Cabelo espetado / topete clássico do Neto -->
+    <path
+        android:fillColor="#3E2723"
+        android:pathData="M16,24 C14,12 28,8 32,6 C36,8 50,12 48,24 C44,18 20,18 16,24 Z" />
+    <!-- Olhos arregalados pistola -->
+    <path android:fillColor="#FFFFFF" android:pathData="M22,30m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0" />
+    <path android:fillColor="#000000" android:pathData="M23,30m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+    <path android:fillColor="#FFFFFF" android:pathData="M42,30m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0" />
+    <path android:fillColor="#000000" android:pathData="M41,30m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+    <!-- Sobrancelhas bravas pistolando -->
+    <path android:strokeColor="#000000" android:strokeWidth="3" android:pathData="M16,24 L27,27" />
+    <path android:strokeColor="#000000" android:strokeWidth="3" android:pathData="M48,24 L37,27" />
+    <!-- Boca gritando CÊ É LOUCO PÃO DE QUEIJO -->
+    <path
+        android:fillColor="#D32F2F"
+        android:strokeColor="#000000"
+        android:strokeWidth="2"
+        android:pathData="M24,42 Q32,54 40,42 Q32,46 24,42 Z" />
+</vector>

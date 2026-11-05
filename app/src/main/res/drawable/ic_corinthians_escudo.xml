@@ -1,0 +1,55 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+    <!-- Fundo Preto circular com borda branca -->
+    <path
+        android:fillColor="#000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="4"
+        android:pathData="M60,60m-54,0a54,54 0,1 1,108 0a54,54 0,1 1,-108 0" />
+
+    <!-- Âncora Vermelha Cruzada (Tradição Corinthians) -->
+    <path
+        android:fillColor="#D32F2F"
+        android:pathData="M56,15 L64,15 L64,85 L56,85 Z" />
+    <path
+        android:strokeColor="#D32F2F"
+        android:strokeWidth="8"
+        android:strokeLineCap="round"
+        android:pathData="M30,70 Q60,105 90,70" />
+    <path
+        android:fillColor="#D32F2F"
+        android:pathData="M60,18m-7,0a7,7 0,1 1,14 0a7,7 0,1 1,-14 0" />
+
+    <!-- Remos Cruzados Amadeirados / Dourados -->
+    <path
+        android:strokeColor="#FFC107"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:pathData="M25,25 L95,95" />
+    <path
+        android:strokeColor="#FFC107"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:pathData="M95,25 L25,95" />
+
+    <!-- Círculo Central Boia Náutica Branca com Borda Preta -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:strokeColor="#000000"
+        android:strokeWidth="3"
+        android:pathData="M60,60m-30,0a30,30 0,1 1,60 0a30,30 0,1 1,-60 0" />
+
+    <!-- Bandeira Paulista estilizada no centro -->
+    <!-- Listras Pretas e Brancas -->
+    <path android:fillColor="#000000" android:pathData="M38,44 L82,44 L82,48 L38,48 Z" />
+    <path android:fillColor="#000000" android:pathData="M38,52 L82,52 L82,56 L38,56 Z" />
+    <path android:fillColor="#000000" android:pathData="M38,60 L82,60 L82,64 L38,64 Z" />
+    <path android:fillColor="#000000" android:pathData="M38,68 L82,68 L82,72 L38,72 Z" />
+
+    <!-- Quadrado Vermelho Superior Esquerdo com Círculo Branco e Estrela -->
+    <path android:fillColor="#D32F2F" android:pathData="M38,44 L56,44 L56,58 L38,58 Z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M47,51m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0" />
+</vector>
